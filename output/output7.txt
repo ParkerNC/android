@@ -1,0 +1,181 @@
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+apks/com.syn.reverb.apk includes protected key:  assets/Cert.pfx (pkcs12)
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+apks/com.touchwaves.yqtree.apk includes protected key:  assets/tt.bks (BouncyCastle Keystore V1)
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+apks/com.zenwise.zambalafollower.apk includes protected key:  assets/mqttBrokerCert.bks (BouncyCastle Keystore V2)
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API Level could not be found, using 10 instead
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API Level could not be found, using 10 instead
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+apks/de.avm.android.fritzappcam.apk includes protected key:  res/raw/keystore.bks (BouncyCastle Keystore V1)
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+apks/de.bmw.connected.apk includes protected key:  res/raw/kpi.bks (BouncyCastle Keystore V2)
+apks/de.bmw.connected.apk includes protected key:  res/raw/mgutrustcert.bks (BouncyCastle Keystore V2)
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+apks/de.bvb09.android.apk includes protected key:  assets/grs_sp.bks (BouncyCastle Keystore V2)
+apks/de.bvb09.android.apk includes protected key:  assets/updatesdkcas.bks (BouncyCastle Keystore V2)
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+apks/de.cluetec.mQuestSurvey.apk includes protected key:  res/raw/mquestandroidtruststore.bks (BouncyCastle Keystore V1)
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API Level could not be found, using 19 instead
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+apks/de.diebank.magazine.apk includes protected key:  assets/pspdfkit/AdobeCA.p12 (pkcs12)
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+apks/de.geeksfactory.opacclient.apk includes protected key:  res/raw/ssl_trust_store.bks (BouncyCastle Keystore V1)
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API Level could not be found, using 19 instead
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API Level could not be found, using 19 instead
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API Level could not be found, using 19 instead
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Name 'android:versionName' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:icon' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:debuggable' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:minSdkVersion' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+XML Seems to be packed, operations on the AndroidManifest.xml might fail.
+Failed to get the attribute 'name' on tag 'uses-permission' with namespace. But found the same attribute without namespace!
+Failed to get the attribute 'name' on tag 'uses-permission' with namespace. But found the same attribute without namespace!
+Failed to get the attribute 'name' on tag 'uses-permission' with namespace. But found the same attribute without namespace!
+Failed to get the attribute 'name' on tag 'uses-permission' with namespace. But found the same attribute without namespace!
+Failed to get the attribute 'name' on tag 'uses-permission' with namespace. But found the same attribute without namespace!
+Failed to get the attribute 'name' on tag 'uses-permission' with namespace. But found the same attribute without namespace!
+Failed to get the attribute 'name' on tag 'uses-permission' with namespace. But found the same attribute without namespace!
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+apks/de.mypostcard.app.apk includes protected key:  res/raw/mypostcardkeystore.bks (BouncyCastle Keystore V1)
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Traceback (most recent call last):
+  File "/home/string/APKs/keyfinder/keyfinder.py", line 1492, in <module>
+    check_apk(args.apkpath, check_keyused=args.check_keyused, passwd=args.password)
+  File "/home/string/APKs/keyfinder/keyfinder.py", line 1353, in check_apk
+    scan_dir(apkpath, 'apk', check_keyused)
+  File "/home/string/APKs/keyfinder/keyfinder.py", line 1330, in scan_dir
+    check_apk(testfile, check_keyused)
+  File "/home/string/APKs/keyfinder/keyfinder.py", line 1369, in check_apk
+    keydict = analyze_keyfile(keypath, filedict[keyfile], passwd=passwd)
+  File "/home/string/APKs/keyfinder/keyfinder.py", line 1066, in analyze_keyfile
+    keydict.update(analyze_jks(keyfile))
+  File "/home/string/APKs/keyfinder/keyfinder.py", line 1036, in analyze_jks
+    newjks = changejkspassword(keyfile)
+  File "/home/string/APKs/keyfinder/keyfinder.py", line 190, in changejkspassword
+    subprocess.check_call(['java', 'ChangePassword', jksfilepath, jksoutfile], stdout=FNULL, stderr=FNULL)
+  File "/usr/lib/python3.8/subprocess.py", line 359, in check_call
+    retcode = call(*popenargs, **kwargs)
+  File "/usr/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'java'

@@ -1,0 +1,265 @@
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API Level could not be found, using 19 instead
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API Level could not be found, using 10 instead
+Requested API Level could not be found, using 10 instead
+Requested API Level could not be found, using 10 instead
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+apks/de.stefanpledl.localcast.apk includes protected key:  assets/grs_sp.bks (BouncyCastle Keystore V2)
+apks/de.stefanpledl.localcast.apk includes protected key:  assets/hianalyticscas.bks (BouncyCastle Keystore V2)
+apks/de.stefanpledl.localcast.apk includes protected key:  assets/hmsincas.bks (BouncyCastle Keystore V2)
+apks/de.stefanpledl.localcast.apk includes protected key:  assets/hmsrootcas.bks (BouncyCastle Keystore V2)
+apks/de.stefanpledl.localcast.apk includes protected key:  assets/updatesdkcas.bks (BouncyCastle Keystore V2)
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+apks/de.test.swp.apk includes protected key:  keystore.bks (BouncyCastle Keystore V1)
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+apks/de.veedapp.veed.apk includes protected key:  assets/pspdfkit/AdobeCA.p12 (pkcs12)
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+apks/de.vrsinfo.apk includes protected key:  assets/ekap-android-v2.vrs.de.pfx (pkcs12)
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+apks/de.wetteronline.wetterapp.apk includes protected key:  assets/grs_sp.bks (BouncyCastle Keystore V2)
+apks/de.wetteronline.wetterapp.apk includes protected key:  assets/updatesdkcas.bks (BouncyCastle Keystore V2)
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+apks/de.worldofmtb.android.apk includes protected key:  assets/pspdfkit/AdobeCA.p12 (pkcs12)
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API Level could not be found, using 19 instead
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+apks/dk.bridgeit.coop.sales.playstore.apk includes protected key:  res/raw/bridgeit_certificate.bks (BouncyCastle Keystore V2)
+apks/dk.cph.cphairport.apk includes protected key:  assets/cphapp.pfx (pkcs12)
+Requested API Level could not be found, using 19 instead
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API Level could not be found, using 19 instead
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API Level could not be found, using 19 instead
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API Level could not be found, using 10 instead
+Requested API Level could not be found, using 19 instead
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API Level could not be found, using 10 instead
+Requested API Level could not be found, using 10 instead
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API Level could not be found, using 19 instead
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+apks/fi.hibox.hbx.api.client.divitel.solcon.apk includes protected key:  res/raw/hiboxtruststore.bks (BouncyCastle Keystore V2)
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+apks/fi.nordea.mobilebank.apk includes protected key:  res/raw/keystore.bks (BouncyCastle Keystore V1)
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+apks/fi.poppankki.popmobile.apk includes protected key:  res/raw/visa_certificate.p12 (pkcs12)
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+apks/filebrowser.filemanager.file.folder.app.apk includes protected key:  res/raw/key.bks (BouncyCastle Keystore V2)
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API Level could not be found, using 19 instead
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Traceback (most recent call last):
+  File "/home/string/APKs/keyfinder/androapkinfo.py", line 145, in getapkinfo
+    a = apk.APK(apkfile)
+  File "/home/string/.local/lib/python3.8/site-packages/androguard/core/bytecodes/apk.py", line 276, in __init__
+    self.zip = zipfile.ZipFile(io.BytesIO(self.__raw), mode="r")
+  File "/usr/lib/python3.8/zipfile.py", line 1269, in __init__
+    self._RealGetContents()
+  File "/usr/lib/python3.8/zipfile.py", line 1336, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Traceback (most recent call last):
+  File "/home/string/APKs/keyfinder/androapkinfo.py", line 145, in getapkinfo
+    a = apk.APK(apkfile)
+  File "/home/string/.local/lib/python3.8/site-packages/androguard/core/bytecodes/apk.py", line 276, in __init__
+    self.zip = zipfile.ZipFile(io.BytesIO(self.__raw), mode="r")
+  File "/usr/lib/python3.8/zipfile.py", line 1269, in __init__
+    self._RealGetContents()
+  File "/usr/lib/python3.8/zipfile.py", line 1336, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API Level could not be found, using 19 instead
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API Level could not be found, using 10 instead
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API Level could not be found, using 19 instead
+Requested API level 42 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+apks/ru.dublgis.dgismobile.apk includes protected key:  assets/grs_sp.bks (BouncyCastle Keystore V2)
+apks/ru.dublgis.dgismobile.apk includes protected key:  assets/updatesdkcas.bks (BouncyCastle Keystore V2)
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+apks/se.wildfire.culture.apk includes protected key:  keystore.bks (BouncyCastle Keystore V1)
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+apks/fm.clean.apk ERROR File is not a zip file
+apks/gl.fx.dnl.apk ERROR File is not a zip file

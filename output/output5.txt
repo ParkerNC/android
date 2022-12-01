@@ -1,0 +1,37 @@
+Requested API Level could not be found, using 19 instead
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Traceback (most recent call last):
+  File "/home/string/APKs/keyfinder/keyfinder.py", line 1492, in <module>
+    check_apk(args.apkpath, check_keyused=args.check_keyused, passwd=args.password)
+  File "/home/string/APKs/keyfinder/keyfinder.py", line 1353, in check_apk
+    scan_dir(apkpath, 'apk', check_keyused)
+  File "/home/string/APKs/keyfinder/keyfinder.py", line 1330, in scan_dir
+    check_apk(testfile, check_keyused)
+  File "/home/string/APKs/keyfinder/keyfinder.py", line 1369, in check_apk
+    keydict = analyze_keyfile(keypath, filedict[keyfile], passwd=passwd)
+  File "/home/string/APKs/keyfinder/keyfinder.py", line 1066, in analyze_keyfile
+    keydict.update(analyze_jks(keyfile))
+  File "/home/string/APKs/keyfinder/keyfinder.py", line 1036, in analyze_jks
+    newjks = changejkspassword(keyfile)
+  File "/home/string/APKs/keyfinder/keyfinder.py", line 190, in changejkspassword
+    subprocess.check_call(['java', 'ChangePassword', jksfilepath, jksoutfile], stdout=FNULL, stderr=FNULL)
+  File "/usr/lib/python3.8/subprocess.py", line 359, in check_call
+    retcode = call(*popenargs, **kwargs)
+  File "/usr/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'java'

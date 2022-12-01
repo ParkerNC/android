@@ -1,0 +1,250 @@
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API Level could not be found, using 10 instead
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+apks/com.electrolux.myelx.apk includes protected key:  res/raw/qa_root_ca_pem_keystore.bks (BouncyCastle Keystore V2)
+apks/com.electrolux.myelx.apk includes protected key:  res/raw/qa_root_ca_pem_keystore_old.bks (BouncyCastle Keystore V2)
+apks/com.electrolux.myelx.apk includes protected key:  res/raw/root_ca_pem_keystore.bks (BouncyCastle Keystore V2)
+apks/com.electrolux.myelx.apk includes protected key:  res/raw/root_ca_pem_keystore_old.bks (BouncyCastle Keystore V2)
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Name 'android:versionName' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:minSdkVersion' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:targetSdkVersion' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:largeScreens' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:xlargeScreens' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:required' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:allowBackup' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:supportsRtl' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:launchMode' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:windowSoftInputMode' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:windowNoTitle' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:launchMode' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:windowSoftInputMode' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:windowSoftInputMode' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:windowSoftInputMode' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:scheme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:host' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:pathPrefix' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:windowSoftInputMode' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:scheme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:host' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:pathPrefix' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:theme' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:label' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:configChanges' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:exported' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:enabled' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:exported' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:stopWithTask' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:exported' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:permission' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:resource' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:name' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:enabled' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+Name 'android:exported' starts with 'android:' prefix! The Manifest seems to be broken? Removing prefix.
+XML Seems to be packed, operations on the AndroidManifest.xml might fail.
+Failed to get the attribute 'name' on tag 'uses-permission' with namespace. But found the same attribute without namespace!
+Failed to get the attribute 'name' on tag 'uses-permission' with namespace. But found the same attribute without namespace!
+Failed to get the attribute 'name' on tag 'uses-permission' with namespace. But found the same attribute without namespace!
+Failed to get the attribute 'name' on tag 'uses-permission' with namespace. But found the same attribute without namespace!
+Failed to get the attribute 'name' on tag 'uses-permission' with namespace. But found the same attribute without namespace!
+Failed to get the attribute 'name' on tag 'uses-permission' with namespace. But found the same attribute without namespace!
+Main activity without name
+Launcher activity without name
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API Level could not be found, using 19 instead
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+apks/com.healthinteract.myinteract.apk includes protected key:  assets/pspdfkit/AdobeCA.p12 (pkcs12)
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+apks/com.huapu.huafen.apk includes private key:  assets/pkcs8_rsa_private_key.pem (pkcs8)
+apks/com.huapu.huafen.apk includes protected key:  assets/rootca_0727.bks (BouncyCastle Keystore V2)
+Requested API level 30 is larger than maximum we have, returning API level 28 instead.
+apks/com.idtech.your_voice.apk includes protected key:  res/raw/mykeystore.bks (BouncyCastle Keystore V1)
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API Level could not be found, using 19 instead
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+Requested API Level could not be found, using 19 instead
+Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+apks/com.isc.noor.apk includes protected key:  assets/moradzadeh.bks (BouncyCastle Keystore V1)
+Traceback (most recent call last):
+  File "/home/string/APKs/keyfinder/keyfinder.py", line 1492, in <module>
+    check_apk(args.apkpath, check_keyused=args.check_keyused, passwd=args.password)
+  File "/home/string/APKs/keyfinder/keyfinder.py", line 1353, in check_apk
+    scan_dir(apkpath, 'apk', check_keyused)
+  File "/home/string/APKs/keyfinder/keyfinder.py", line 1330, in scan_dir
+    check_apk(testfile, check_keyused)
+  File "/home/string/APKs/keyfinder/keyfinder.py", line 1369, in check_apk
+    keydict = analyze_keyfile(keypath, filedict[keyfile], passwd=passwd)
+  File "/home/string/APKs/keyfinder/keyfinder.py", line 1066, in analyze_keyfile
+    keydict.update(analyze_jks(keyfile))
+  File "/home/string/APKs/keyfinder/keyfinder.py", line 1036, in analyze_jks
+    newjks = changejkspassword(keyfile)
+  File "/home/string/APKs/keyfinder/keyfinder.py", line 190, in changejkspassword
+    subprocess.check_call(['java', 'ChangePassword', jksfilepath, jksoutfile], stdout=FNULL, stderr=FNULL)
+  File "/usr/lib/python3.8/subprocess.py", line 359, in check_call
+    retcode = call(*popenargs, **kwargs)
+  File "/usr/lib/python3.8/subprocess.py", line 340, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'java'
